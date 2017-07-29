@@ -1,8 +1,10 @@
 # Who Gets Coffee
 
-A server to decide who is the *lucky* person that fetches the coffee
-A provably fair algorithm
-2 versions, Aborting and Non-Aborting
+A server to decide who is the *lucky* person that fetches the coffee.
+
+A provably fair algorithm.
+
+2 versions, Aborting and Non-Aborting.
 
 ## Aborting:
 

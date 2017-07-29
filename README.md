@@ -1,12 +1,10 @@
-#Who Gets Coffee
+# Who Gets Coffee
 
-A server to decide who is the "lucky" person that fetches the coffee
-
-A proovably fair algorithm
-
+A server to decide who is the *lucky* person that fetches the coffee
+A provably fair algorithm
 2 versions, Aborting and Non-Aborting
 
-##Aborting:
+## Aborting:
 
 This version allows parties to abort, but they are more likely to be elected.
 
@@ -24,7 +22,7 @@ This version allows parties to abort, but they are more likely to be elected.
 
 
 
-##Non-Aborting:
+## Non-Aborting:
 
 This version tolerates if up to 1/2 of the parties abort.
 
